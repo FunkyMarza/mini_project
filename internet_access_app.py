@@ -160,7 +160,7 @@ if show_context == "Yes":
     fig.add_vline(x=2014, line_width=2, line_dash="dash", line_color="green", 
                 annotation_text="2014: Mobile Internet Overtakes Desktop", annotation_position="bottom left")
 
-fig.update_layout(height=1000, width=1600)
+fig.update_layout(height=700, width=1600)
 
 st.plotly_chart(fig)
 
@@ -204,6 +204,6 @@ fig2.update_traces(
     hovertemplate="<b>Country:</b> %{customdata[0]}<br>"
                   "<b>% of population:</b> %{customdata[1]:.2f}"
 )
-fig2.update_layout(height=600, width=1300)
+fig2.update_layout(height=700, width=1500)
 
 st.plotly_chart(fig2)
