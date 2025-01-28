@@ -1,24 +1,7 @@
-"""
-Use the plots from yesterday’s last exercise to create an interactive dashboard for data exploration using Plotly and Streamlit. Below are some elements that you can include in your dashboard. Once you’re through with these, feel free to implement other ideas and make this project your own.
-
-Create a checkbox Show dataframe to display/hide your dataset.
-Create a Plotly choropleth map, which visualizes the geospatial features and some interesting information from your dataset.
-* Add a dropdown that lets users select based on some feature of your dataset (e.g. age of the dog owner).
-* Add “All” option to this dropdown.
-Create a bar chart or a scatter plot for your dataset.
-* Add a radio button that lets users choose to display two different options (e.g. male/female or before/after).
-* Optional: Can you make this button work on both of your plots simultaneously?
-Add a suitable title to your app.
-Further customize your app as you like (e.g. add a sidebar, split the page into columns, add text, etc.).
-Once you’re satisfied with your app, move on to the deployment stage.
-"""
-
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
-from urllib.request import urlopen
 import json
 from copy import deepcopy
 from plotly.subplots import make_subplots
