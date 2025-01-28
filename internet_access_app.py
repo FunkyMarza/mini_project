@@ -178,7 +178,7 @@ year = st.select_slider("Slide to display the map for this year", options = year
 #creating subsets for years
 year_map_df = df[df["year"] == year]
 
-means = reduced_df.groupby('year').mean(numeric_only=True)
+#means = reduced_df.groupby('year').mean(numeric_only=True)
 
 # creating the map view
 with open("./data/raw/countries.geojson") as f:
