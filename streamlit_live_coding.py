@@ -15,9 +15,9 @@ def load_data(path):
     return df
 
 # First some MPG Data Exploration
-mpg_df_raw = load_data(path="./data/mpg.csv")
+mpg_df_raw = load_data(path="./data/raw/mpg.csv")
 mpg_df = deepcopy(mpg_df_raw)
-"""
+
 # Add title and header
 st.title("Introduction to Streamlit")
 st.header("MPG Data Exploration")
@@ -99,4 +99,3 @@ ds_geo['lon'] = ds_geo['centroid_lon']
 st.dataframe(ds_geo.head())
 
 st.map(ds_geo)
-"""
