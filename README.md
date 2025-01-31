@@ -1,4 +1,5 @@
-# Project Name
+# Internet Access Around the Globe
+
 
 example image:
 
@@ -6,33 +7,28 @@ example image:
 ![alternative text](reports/img/pic01.jpg)
 
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
+A look into how internet access has changed over the years. Using the World Bank country-level data on the percentage of the population using the internet from 1960-2020.
 
 ### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact]
-* If you do not have a partner leave this section out
+* Constructor Academy
+* [Website for partner](https://academy.constructor.org/)
+
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
 * Data Visualization
-* Predictive Modeling
-* etc.
+
 
 ### Technologies
-* R
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
+* Pandas, Jupyter
+* Matplotlib, pyplot
+* Streamlit
+
+
+## Following has not been updated:
 
 ## Project Description
 (Provide more detailed overview of the project.
@@ -60,13 +56,3 @@ create another "setup.md" file and link to it here*
 * [Notebook/Markdown/Slide Deck Title](link)
 * [Notebook/Markdown/Slide DeckTitle](link)
 * [Blog Post](link)
-
-
-## Contributing Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])**
-
-#### Other Members:
-
- - [Full Name](https://github.com/[github handle])
- - [Full Name](https://github.com/[github handle])
