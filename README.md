@@ -1,7 +1,7 @@
 # Internet Access Around the Globe
 
-<img width="1640" alt="Screenshot 2025-02-16 at 11 23 26" src="https://github.com/user-attachments/assets/4d7025ec-ea24-4c91-b3b1-4de8d69c4f81" />
-<img width="543" alt="Screenshot 2025-02-16 at 11 25 09" src="https://github.com/user-attachments/assets/8d724739-6e52-4b0b-8612-7b60b3afacd5" />
+<img width="600" alt="Screenshot 2025-02-16 at 11 23 26" src="https://github.com/user-attachments/assets/4d7025ec-ea24-4c91-b3b1-4de8d69c4f81" />
+<img width="400" alt="Screenshot 2025-02-16 at 11 25 09" src="https://github.com/user-attachments/assets/8d724739-6e52-4b0b-8612-7b60b3afacd5" />
 
 
 #### -- Project Status: [Completed]
