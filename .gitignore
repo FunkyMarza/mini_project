@@ -7,6 +7,10 @@ data/raw/mpg.csv
 ### dotenv ###
 .env
 
+### random files I used ###
+streamlit_live_coding.py
+day4_livecoding.py
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
