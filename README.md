@@ -1,10 +1,7 @@
 # Internet Access Around the Globe
 
-
-example image:
-
-
-![alternative text](reports/img/pic01.jpg)
+<img width="1640" alt="Screenshot 2025-02-16 at 11 23 26" src="https://github.com/user-attachments/assets/4d7025ec-ea24-4c91-b3b1-4de8d69c4f81" />
+<img width="543" alt="Screenshot 2025-02-16 at 11 25 09" src="https://github.com/user-attachments/assets/8d724739-6e52-4b0b-8612-7b60b3afacd5" />
 
 
 #### -- Project Status: [Completed]
@@ -12,14 +9,8 @@ example image:
 ## Project Intro/Objective
 A look into how internet access has changed over the years. Using the World Bank country-level data on the percentage of the population using the internet from 1960-2020.
 
-### Partner
-* Constructor Academy
-* [Website for partner](https://academy.constructor.org/)
-
-
 ### Methods Used
 * Data Visualization
-
 
 ### Technologies
 * Python
@@ -27,32 +18,19 @@ A look into how internet access has changed over the years. Using the World Bank
 * Matplotlib, pyplot
 * Streamlit
 
-
-## Following has not been updated:
-
 ## Project Description
-(Provide more detailed overview of the project.
-Talk a bit about your data sources and what questions and hypothesis you are exploring.
-What specific data analysis/visualization and modelling work are you using to solve the
-problem? What blockers and challenges are you facing?
-Feel free to number or bullet point things here)
+How has internet access evolved across the world? This project explores country-level data on internet access from the World Bank, spanning from 1960 to 2020. While early adoption was sparse, the data becomes particularly interesting in the 1990s as internet penetration accelerates globally.
 
-## Getting Started
+### Key Insights
+Choropleth maps to visualize internet adoption across different countries.
+Comparisons by continent and country level to reveal disparities in internet access.
+Historical trends and context showcasing the global digital transformation.
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+Check out the visualizations and insights on Streamlit.
 
-    *If using offline data mention that and how they may obtain the data from the froup)*
-
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages)
-create another "setup.md" file and link to it here*
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+## Deliverable
+* [View the app](https://miniproject-yfwvcb23uzqpgz277mohek.streamlit.app/)
+  
+### Partner
+* Constructor Academy
+* [Website](https://academy.constructor.org/)
